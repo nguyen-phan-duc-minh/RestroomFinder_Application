@@ -1,5 +1,8 @@
 # 🚽 Restroom Finder App - Project Structure
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning, Education Technology
+
 ## 📱 Overview
 Restroom Finder là ứng dụng di động được phát triển bằng **React Native Expo** với backend **Flask Python**, giúp người dùng tìm kiếm và sử dụng nhà vệ sinh công cộng một cách tiện lợi.
 
